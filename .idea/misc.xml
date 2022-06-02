@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/background_intro_title.xml" value="0.212" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.26888732910156254" />
+        <entry key="app/src/main/res/drawable/shape_circle.xml" value="0.218" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.15339233038348082" />
         <entry key="app/src/main/res/layout/layout_intro_title.xml" value="0.302536231884058" />
+        <entry key="app/src/main/res/xml/curation_animation_scene.xml" value="0.31567028985507245" />
         <entry key="app/src/main/res/xml/gathering_digital_things_background_scene.xml" value="0.28532608695652173" />
         <entry key="app/src/main/res/xml/gathering_digital_things_scene.xml" value="0.302536231884058" />
       </map>
